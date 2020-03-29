@@ -1,0 +1,3 @@
+[submodule "nonergodic"]
+	path = nonergodic
+	url = git@github.com:glandfried/non-ergodic.git

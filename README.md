@@ -1,5 +1,10 @@
 # Inequality dynamics
 
+Note: "For income, many countries report time series of mean and median values, whose growth rates can be computed and will resemble g-ave and g-typ" (From [paper](https://doi.org/10.1111/j.1740-9713.2016.00918.x)).
+
+**TODO:**
+- Test to what extent the median continues to approximate DDP as the process stop being multiplicative.
+
 **Note: we will show some of the math that is left implicit in the original [post](https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/)**
 
 Evolutionary and economic process are essentially temporary process.
@@ -118,7 +123,7 @@ $$ dJ = d(\ln GDP) - d(\ln DDP) $$
 
 Integrating
 
-$$ J = \ln GDP - \ln DDP  = \frac{\ln GDP}{\ln DDP}$$
+$$ J = \ln GDP - \ln DDP  = \ln \frac{ GDP}{DDP}$$
 
 in other words
 
@@ -133,7 +138,6 @@ Ergodicity economics provide an other intuitive sense: **this inequality measure
 
 ## Materials
 
-[paper](https://doi.org/10.1111/j.1740-9713.2016.00918.x)
 [Entropy inequality index](Cowell)
 [Some Math](https://github.com/LMLhub/DDP/blob/master/DDP.pdf)
 
