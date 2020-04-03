@@ -1,5 +1,72 @@
 # Inequality dynamics
 
+Even more than a DRAFT.
+
+------
+
+
+En la refundación de las disciplinas científicas que define Europa durante el último giro geopolítico, el objeto social es fragmentado y distribuido en mil pedazos.
+La sociología y la historia se ocuparon de estudiar las contadas "civilizaciones", espcialmente a sí mismos.
+Una serie de aspectos arbitrarios de estas civilizaciones sirvieron como base para fundar disciplinas como la "economía", la "política", la "criminología", la "demografía" entre otras.
+El resto del objeto social, todas las sociedades de la humanidad y todos los aspectos de esas sociedades, fue dejado a la antropología.
+La antropología tenía por objetivo entender el funcionamiento de las sociedades colonizadas en áfrica, ocenía y américa, luego de que el narco estado inglés venciera a a la primera potencia en la primera y segunda guerra del opio.
+La refundación eurocéntrica de las ciencias hizo de la antropología la única disciplina social con el objeto completo, tal como ocurre en las ciencias naturales con la física, química o biología.
+
+I learn a lot reading the non ergodic interpretation of economic process made by Ole Peters.
+[La opinon que le merece la economía]
+"Ergodicity Economics really is a catastrophically foundational critique of mainstream economics."
+"I think people should know this about mainstream economics. Fundamentally, it has not yet fully entered the scientific age. "
+
+[Porque lo deice él]
+Por el lugar fundamental que tiene el tiempo en los procesos que están fuera del equilibrio.
+
+[El dice:]
+Un proceso multiplicativo está fuera del equilibrio, y el creimiento económico, sigue un proceso multiplicativo.
+El hace la nanalogía como la bomba nuclear, que es un ejemplod e la mecánica estadístia fuera del equilibrio.
+La liberación de neutrones en sigue un proceso multiplicativo en la primera fase.
+Pero en un momento tie
+
+
+
+
+actual está centrada en el valor de cambio
+
+The 
+
+. Naively, that doesn’t fit with the idea of a growing economy, innovation, and change. 
+
+
+Mark Kirstein señala el mismo punto que me motiva:
+You open a whole box of worm cans, Mark. Let me number some of them, and then comment:
+1. Can an explosion go on forever?
+2. If not, how does it stop?
+3. GDP increases when bad things happen.
+4. GDP is a single number that misses a lot of important information.
+
+1a. Ken Arrow raised it as an objection after a talk I gave in Santa Fe: exponential growth cannot go on forever (my response was: I agree, but it can go on for hundreds of years).
+1b. Mark Buchanan made a more nuanced version of Ken’s point — physical constraints will eventually kick in.
+To understand whether economic growth is physical or not, you can plot the CO2 emissions of a country versus its GDP.
+1c. In that case Paul Krugman objected, claiming that innovation will always make further growth possible [Evolución cultural]. 
+
+2. Biological organisms follow universal growth curves until the energetic cost to maintain our cells balances the metabolic power supply, and we simply stop growing. There’s no law of nature that forbids maturing economies to behave similarly.
+
+3. and 4. I GDP per person is precisely an ensemble average, and GDP growth — the growth rate of an ensemble average — is different from the time average growth rate, i.e. different from what an individual is likely to experience.
+The difference between these two growth rates, incidentally, is a good definition for the rate of change of economic inequality.
+Alex Adamou and I wrote this up for the Royal Statistical Society last
+
+
+[Que es lo que creo yo]
+Yo creo que es un grave error, centrarse en el dinero como objeto de estudio.
+La econompia tiene que ver con la vida.
+Puede haber una correlación entre el flujo de dinero y los proceso de la vida. 
+Pero puede mno haber flujo de dinero y haber vida.
+
+El principal concepto de la antropología económica es el de reciprocidad.
+
+La
+
+---- 
+
 Note: "For income, many countries report time series of mean and median values, whose growth rates can be computed and will resemble g-ave and g-typ" (From [paper](https://doi.org/10.1111/j.1740-9713.2016.00918.x)).
 
 **TODO:**
