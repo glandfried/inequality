@@ -2,6 +2,19 @@
 
 Even more than a DRAFT.
 
+Honestly, at some point you have to ask yourself: if our economic system doesn't secure public health and well-being, and doesn't protect and regenerate ecology, then what's actually the point?
+
+The rate of GDP growth is roughly indicative of the rate at which capital is transforming living systems into commodities.
+That we have come to use this as our primary indicator of "progress" reveals the extent to which we have been persuaded to see the world from the perspective of capital rather than from the perspective of life.
+When we see a graph showing rising GDP, we must understand that this does not represent livelihoods, or well-being, or access to the things we need to flourish. Instead, it represents the quantity of nature and human life that has been roped into circuits of capital accumulation.
+We have always known that there are two kinds of labour: that which is organised around actual use-value, and that which is organised around exchange-value.
+
+[Jason Hickel][https://thecorrespondent.com/357/outgrowing-growth-why-quality-of-life-not-gdp-should-be-our-measure-of-success/413218170519-b4d036a5]
+
+ if we want a decent shot at climate stability, high-income nations will have to shift to post-growth economic principles. What does this mean? 1. Stop chasing Gross Domestic Product (GDP) and put your benchmarks for success into sustaining ecosystems and general wellbeing. The truth is we don’t need more growth to improve people’s lives. We can accomplish our social goals right now without any growth at all, simply by sharing what we already have more fairly, and by investing generously in public goods. 
+
+Beyond a certain point, which high-income countries have long since surpassed, the relationship between GDP and human wellbeing completely breaks down. 
+
 ------
 
 
